@@ -1,1 +1,7 @@
 *.pdf
+/p39Env
+Python Data Science Handbook.ipynb
+/bin
+lib*
+/include
+*.cfg

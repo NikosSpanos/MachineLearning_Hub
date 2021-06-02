@@ -1,0 +1,13 @@
+sklearn
+numpy
+pandas
+seaborn
+matplotlib
+jupyter
+jupyter-core
+scipy
+nltk
+humanfriendly
+spacy
+virtualenv
+pydot
